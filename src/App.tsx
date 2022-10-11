@@ -87,8 +87,9 @@ function App() {
         </a>
         . Coded by{" "}
         <a
-          className="underline hover:text-neon_green"
           href="https://github.com/tezarsurya"
+          target="_blank"
+          className="underline hover:text-neon_green"
         >
           tezarsurya
         </a>
